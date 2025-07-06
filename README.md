@@ -1,10 +1,13 @@
 - 👋 Hi, I’m Ankita Shree
-- 👀 I’m interested in HR Analytics
-- 🌱 I’m currently learning ineuron BA course
-- 💞️ I’m looking to collaborate on HR Analyst data
+- 👀 6+ Years of End-to-End Recruitment Experience | Stakeholder Management | Vendor Coordination | Campus Hiring | Global Recruitment 
+-  Technology Hiring: SAP (ABAP, MM, SD, FICO, HCM, S/4HANA), Microsoft (.NET, Azure, D365), QA/Testers, Infra & Cloud (DevOps, AWS, Networking)
+-  Senior & Leadership Hiring: Project Managers, Architects, Delivery Heads, Practice Leads
+-  Boolean Search | X-ray Search | LinkedIn Recruiter | GitHub (https://github.com/search/advanced) | Naukri | Monster | Naukri Gulf | iHire
+-  AI Tools in Recruitment | Cost Optimization | Talent Pipeline Development
+-  Recruitment Analytics: Power BI, Excel Dashboards, ATS Reporting (workday, Zwayam, Zoho, Greehouse)
 - 📫 How to reach me .8904745580
 - 😄 Pronouns: Ankita Shree
-- ⚡ Fun fact: ...
+
 
 <!---
 AnkitaShree13/AnkitaShree13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
