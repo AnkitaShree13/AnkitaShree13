@@ -5,7 +5,7 @@
 -  Boolean Search | X-ray Search | LinkedIn Recruiter | GitHub (https://github.com/search/advanced) | Naukri | Monster | Naukri Gulf | iHire
 -  AI Tools in Recruitment | Cost Optimization | Talent Pipeline Development
 -  Recruitment Analytics: Power BI, Excel Dashboards, ATS Reporting (workday, Zwayam, Zoho, Greehouse)
-- 📫 How to reach me .8904745580
+- 📫 How to reach me .8904745580 | ankitashree631@gmail.com
 - 😄 Pronouns: Ankita Shree
 
 
